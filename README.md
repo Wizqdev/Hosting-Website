@@ -12,7 +12,8 @@ We cannot force you to keep the "Made By Hyricon Development" in the footer, but
 
 Check out our [Discord Support](https://discord.gg/qZqsnDETcP)<br/>
 <br/><br/><br/>
+<h2>Installtion Docs Soon Join Discord For Now!!</h2>
+
 
 <p align="center"><a href="https://github.com/NorthDevelopment/NorthClient#"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
 
-<h3>Installtion Docs Soon Join Discord For Now!!</h3>
