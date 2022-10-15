@@ -1,7 +1,7 @@
 <h1 align="center">Free Hosting Website Template</h1>
 
 ## :eyes:  Preview
-![unknown](https://cdn.discordapp.com/attachments/1023575939826847784/1030873542818021426/unknown.png)
+![unknown](https://cdn.discordapp.com/attachments/1023575939826847784/1030876069668073512/unknown.png)
 
 
 <br/><br/><br/>
@@ -14,3 +14,5 @@ Check out our [Discord Support](https://discord.gg/qZqsnDETcP)<br/>
 <br/><br/><br/>
 
 <p align="center"><a href="https://github.com/NorthDevelopment/NorthClient#"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
+
+<h3>Installtion Docs Soon Join Discord For Now!!</h3>
