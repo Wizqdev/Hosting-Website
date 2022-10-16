@@ -15,5 +15,5 @@ Check out our [Discord Support](https://discord.gg/qZqsnDETcP)<br/>
 <h2>Installtion Docs Soon Join Discord For Now!!</h2>
 
 
-<p align="center"><a href="https://github.com/NorthDevelopment/NorthClient#"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
+<p align="center"><a href="https://github.com/Hyricon-Development/Hosting-Website#"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back to top" height="29"/></a></p>
 
