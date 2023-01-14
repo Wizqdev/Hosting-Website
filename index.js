@@ -60,6 +60,13 @@ app.get("/services", (req, res) => {
     res.render("services.ejs", {config: config});
   });
 
+  app.get("/", (req, res) => {
+    res.render("header.ejs", {config: config});
+  });
+  app.get("/", (req, res) => {
+    res.render("footer.ejs", {config: config});
+  });
+
 app.get("/support", (req, res) => {
     res.redirect(config.support);
   });

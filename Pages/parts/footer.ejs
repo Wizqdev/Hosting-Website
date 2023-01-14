@@ -1,0 +1,49 @@
+<footer id="footer" class="footer">
+
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-lg-5 col-md-12 footer-info">
+            <a href="/" class="logo d-flex align-items-center">
+              <span><%= config.name %></span>
+            </a>
+            <p>We are a hosting service that provides Free & Paid hosting plans to our users. We care about our users so have DDOS protected nodes so Nodes don't go down. We use Pterdactyl as our hosting panel as it is an easy to understand panel for users to use.</p>
+            <div class="social-links mt-3">
+              <a href="/server" target="_blank" class="twitter"><i class="bi bi-discord"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li> <a href="/">Home</a></li>
+              <li> <a href="/about">About us</a></li>
+              <li> <a href="/services">Services</a></li>
+              <li> <a href="/terms">Terms of service</a></li>
+              <li> <a href="/privacy">Privacy policy</a></li>
+              <% if (config.status.enabled==true) { %><li> <a href="/status">Node Status</a></li><% } %>
+            </ul>
+          </div>
+
+
+          <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+            <h4>Contact Us</h4>
+            <p>
+              <strong ><a href="/support" style="color:rgb(224, 214, 214);">Support Click Me</a></strong><br>
+              <strong>Email:</strong> support@<%= config.name %>.com
+              <br>
+            </p>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span><%= config.name %></span></strong>. All Rights Reserved | <span>Website Made By Prajwal</span>
+      </div>
+    </div>
+  </footer>
