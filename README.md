@@ -6,7 +6,7 @@
 
 <br/><br/><br/>
 ## :warning:  Warning/Copyright
-We cannot force you to keep the "Made By Prajwal" in the footer, but please consider keeping it. It helps getting more visibility to the project and so getting better. We won't do technical support for installations without the notice in the footer. And the version check in the Admin area.
+We cannot force you to keep the "Made By Prajwal" in the footer, It helps getting more visibility to the project and so getting better. or else i will dmca it
 
 
 
